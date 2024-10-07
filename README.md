@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lesterlopes
-- 👀 I’m an avid data enthusiast, current grad student at UT Dallas. Intern at Ernst and Young
+- 👀 I’m an avid data enthusiast| Data Analyst @EY
 - 🌱 Currently learning about blockchain and CBDC and big data technologies
 - 💞️ I’m looking to collaborate on Data analysis and ideas relating to blockchain in heathcare
 - 📫 How to reach me : lopeslester@gmail.com / lester.lopes@utdallas.edu
